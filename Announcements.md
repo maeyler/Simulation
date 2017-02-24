@@ -1,5 +1,13 @@
 ### IE 364 -- IE 3064
 
+#### Lab Reports
+
+Please print the contents of [Lab Reports.pdf](https://github.com/maeyler/Simulation/blob/master/Lab Reports.pdf) -- You will use them through the term
+
+
+#### [Project proposal](https://github.com/maeyler/Simulation/blob/master/Term%20Project.md) by March 7
+
+
 #### Lab sessions will begin on Tue Feb 21
 
 Lab groups are assigned with respect to the last name
