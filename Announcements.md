@@ -11,7 +11,7 @@ The subjects listed below must be included in report
 * Extra Points: UML of the Systems (Variables, Attributes, etc.) 
 * Solution Approaches for Process or Systems
 
-* In this report, the system framework (detailed) & data observations are the most important topics.
+In this report, the system framework (detailed) & data observations are the most important topics.
 * A short project timeline can be helpful to determine the way that you progress
 * References can be utilized to construct more satisfied works
 * The data observed or taken must be regular and straight to take better results from simulation.
