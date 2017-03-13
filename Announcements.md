@@ -1,5 +1,21 @@
 ### IE 364 -- IE 3064
 
+#### First Report due on Tuesday April 4, 2017
+
+The subjects listed below must be included in report
+* Problem Identification
+* System Framework (Detailed)
+* Performance Measurements
+* Data Observations
+* Data Analysis (Descriptive Statistics: Types of Data etc.)
+* Extra Points: UML of the Systems (Variables, Attributes, etc.) 
+* Solution Approaches for Process or Systems
+
+* In this report, the system framework (detailed) & data observations are the most important topics.
+* A short project timeline can be helpful to determine the way that you progress
+* References can be utilized to construct more satisfied works
+* The data observed or taken must be regular and straight to take better results from simulation.
+
 #### Lab Reports
 
 Please print the contents of [Lab Reports.pdf](https://github.com/maeyler/Simulation/blob/master/Lab Reports.pdf) -- You will use them through the term
