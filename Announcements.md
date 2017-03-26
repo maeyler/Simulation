@@ -18,7 +18,7 @@ In this report, the system framework (detailed) & data observations are the most
 
 #### Lab Reports
 
-Please print the contents of [Lab Reports.pdf](https://github.com/maeyler/Simulation/blob/master/Lab Reports.pdf) -- You will use them through the term
+Please print the contents of [Lab Reports.pdf](https://github.com/maeyler/Simulation/blob/master/Lab%20Reports.pdf) -- You will use them through the term
 
 
 #### [Project proposal](https://github.com/maeyler/Simulation/blob/master/Term%20Project.md) by March 7
