@@ -1,5 +1,34 @@
 ### IE 364 -- IE 3064
 
+#### Final Report due on Tuesday May 9, 2017
+
+Your presentation will be on a desk in the lab (no laptop or screen) and limited to 5 minutes.
+
+Your report should contain these sections:
+* Cover
+* Introduction
+* Problem Definition
+* System Framework (Detailed)
+* Performance Measurements
+* Solution Approaches for Process or Systems
+* Data Observations (Summarized)
+* Data Analysis (Descriptive Statistics, Types of Data, etc.)
+* Graphics 
+* Acceptance Tests (Chi-Square, Kolmogorov-Smirnov, etc.) 
+
+Project timeline can be helpful to present your progress. References can be utilized to construct more satisfied works. The data observed or taken must be regular and straight to take better results from simulation.
+
+For result section:
+* The running simulation scheme
+* Results of your project
+* Improvements for your project and the steps and results of the improvements
+* The comments of your alternative solution(if you have) and previous system
+
+Presentations will be based on your reports. Bring two copies for us, we will keep one copy, return the other.
+
+**Presentations cannot cover all of your work. You must summarize it in 5 minutes using the outline shown above.**
+
+
 #### First Report due on Tuesday April 4, 2017
 
 The subjects listed below must be included in report
